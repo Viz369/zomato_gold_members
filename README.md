@@ -8,15 +8,23 @@ Steps Taken: 2. Data Setup and Exploration: Created tables for gold user signups
 
 QUESTIONS:
 1)What is the total amount each customer spent on zomato?
+
 2)How many days has each customer visited Zomato?
+
 3)What was the first product purchased by each customer?
+
 4)What is the most purchased item on the menu and
  how many times was it purchased by each customer?
+ 
  5)Which item was the most popular for each customer?
+ 
  6)Which item was first purchased by a customer after they became a member?
+ 
  7)Which item was purchased by customer just befor they became a member?
+ 
  8)What is the total no. of orders placed and amount spent by each customer
   before becoming a member?
+  
  9)Buying each product generates certain points on zomato where 5rs = 2 Zomato points
 and each product has different points . For p1 5rs = 1 point, p2 10rs = 5 points,
 p3 5rs = 1 point, based on this information , calculate the point collected by each customer
@@ -27,6 +35,7 @@ a customer earns 5 zomato points for every 10rs spent . Who earned more points 1
 and how many points did each of them earn?
 
 11)Rank all the transactions of the customers based on order date.
+
 12)Rank all the transactions for each member after they became a zomato gold member
 for every non gold member transaction mark as 'na'.
       
